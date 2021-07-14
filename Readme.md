@@ -1,4 +1,4 @@
-In this project, we web scrap graphics cards products for sale off newegg.com. We tabularize and turn it into a data set. Running the python script anytime will update the webpage's data set on a csv file with each graphics card's brand, product name, and shipping. 
+In this project, we web scrap graphics cards products for sale off newegg.com. We tabularize and turn it into a data set. Running the python script anytime will create a csv file and update the webpage's data on it with each graphics card's brand, product name, and shipping. 
 
 We grab the URL of the product page of [newegg.com](httpnewegg.com) and paste it into the script.
 
